@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Production & Build outputs
+dist/
+build/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Cache and Temporary Files
+.DS_Store
+.vscode/
+.idea/
+*.log
+.cache/
+tmp/
+temp/
+*.tsbuildinfo
+
+# Note: package-lock.json is explicitly NOT ignored as per project guidelines.
